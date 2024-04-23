@@ -1,6 +1,7 @@
 package StepDefinations;
 
 public class TesterThree {
-int a=8;
+
+	int a=6;
 
 }
